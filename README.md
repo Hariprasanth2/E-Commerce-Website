@@ -48,6 +48,10 @@ This project is a fully responsive e-commerce website for a Nike Store. It featu
 ## Contributing
 Feel free to contribute to this project! Fork the repository and submit a pull request with improvements.
 
+## Output
+[View Project Output](https://github.com/Hariprasanth2/E-Commerce-Website/blob/d1727110ebea8186f3df756f7c141f995906ae64/Output)
+
+
 ## License
 This project is licensed under the **MIT License**.
 
